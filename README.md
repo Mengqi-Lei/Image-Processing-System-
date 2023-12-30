@@ -3,3 +3,6 @@ CUG的图像处理课程设计，主要实现了各种图像处理算法，如�
 
 如果需要配置深度学习算法，可以在此下载源码和权重: https://github.com/RangiLyu/nanodet。
 并且放置在项目的/NanoDet文件夹下，结合inference_img.py实现深度学习目标检测功能。
+
+### 界面：
+![Local Image](./pic.png)
